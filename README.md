@@ -1,2 +1,4 @@
-# hackerearth-codemonk-solutions
-Trackwise solutions to codemonk problems in C++
+#This Repository contains trackwise solutions to codemonk problems in C++
+
+
+
